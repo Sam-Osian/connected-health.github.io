@@ -3,16 +3,21 @@ site_url: https://connectedhealth.group
 #site_description: Add description for website (good for SEO)
 #copyright: Add copyright info here if needed
 
+# Below is the navigation bar. To add a new page, create a new markdown file in the docs folder and link to it here.
+# You can also create subpages by indenting the links under a parent page (e.g. just like in the About section).
 nav:
   - Home: 'index.md'
   - About: 
     - 'about/index.md'
+    - Meet the Team: 'about/team.md'
 
-  
+# Site configuration
 theme:
   name: material
-  # Add 
-  # logo: 'assets/logo.png'
+  language: en
+  #favicon: assets/favicon.png -- optionally, you can add a favicon
+  Add:
+   #logo: assets/logo.png -- optionally, add a logo
   palette:
     scheme: default
   features:
@@ -24,7 +29,8 @@ theme:
     - content.tabs
     - navigation.path
     - navigation.top
-    
+
+# If you want to add custom css, create a stylesheets folder in the docs/ directory and add your css file there.
 extra_css:
   - stylesheets/extra.css
   
