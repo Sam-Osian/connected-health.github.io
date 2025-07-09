@@ -14,5 +14,6 @@
 #       - uses: actions/setup-python@v4
 #         with:
 #           python-version: "3.11"
-#       - run: pip install mkdocs==1.6.1 mkdocs-material==9.6.14 mkdocs-glightbox==0.4.0
-#       - run: mkdocs gh-deploy
+#       - run: pip install uv
+#       - run: uv pip sync pyproject.toml --system
+#       - run: uv run mkdocs gh-deploy

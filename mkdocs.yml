@@ -1,6 +1,7 @@
-site_name: SysteMatic Digital Commons
-
-copyright: Copyright &copy; 2024 SysteMatic Project
+site_name: Connected Health
+site_url: https://connectedhealth.group
+#site_description: Add description for website (good for SEO)
+#copyright: Add copyright info here if needed
 
 nav:
   - Home: 'index.md'
@@ -13,13 +14,12 @@ theme:
   # Add 
   # logo: 'assets/logo.png'
   palette:
-    scheme: systematic
+    scheme: default
   features:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
     - navigation.indexes
-    - navigation.footer
     - content.tabs.link
     - content.tabs
     - navigation.path
