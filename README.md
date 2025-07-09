@@ -53,3 +53,7 @@ uv add mkdocs-glightbox
 Please never manually edit the `uv.lock` file, as this is auto-generated. 
 
 Don't modify the CNAME file, as this is what links the repo to our custom domain.
+
+## If you need help
+
+Reach out to Sam on samoand@liverpool.ac.uk :)
