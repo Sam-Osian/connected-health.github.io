@@ -6,7 +6,7 @@ hide:
 
 # Home
 
-Home page text.
+This is the home page.
 
 <!-- 
 To include images, add:
