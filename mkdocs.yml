@@ -5,55 +5,13 @@ copyright: Copyright &copy; 2024 SysteMatic Project
 nav:
   - Home: 'index.md'
   - About: 
-    - 'about-systematic/index.md'
-    - Development phase: 'about-systematic/development-stage.md'
-    - Key learning from the development phase: 'about-systematic/learning-from-development-phase.md'
-    - Phase Two: 'about-systematic/phase-two.md'
-  - Health Intelligence: 
-    - 'health-intelligence/index.md'
-    - Secondary care data - Glasgow: 'health-intelligence/glasgow.md'
-    - Primary care data - Liverpool: 'health-intelligence/liverpool.md'
-  - People Insights: 
-    - 'people-insight/index.md'
-    - Working with public advisors: 
-      - PPIE blog: 'people-insight/public-involvement-blog.md'
-    - Engaging research participants: 
-      - MLTC activity books: 'people-insight/activity-book.md'
-      - Arts-based workshops: 'people-insight/arts-based-workshops.md'
-      - Body mapping: 'people-insight/body-mapping.md'
-      - Visualised health journeys: 'people-insight/visual-health-journeys.md'
-      - Photovoice: 'people-insight/photovoice.md'
-    - Person mapping: 
-      - Principles for person mapping: 'people-insight/principles-person-maps.md'
-      - MLTC personas/person mapping: 'people-insight/person-maps.md'
-      - Persona set: 'people-insight/persona-set.md'
-    - Journey mapping:
-      - MLTC journey mapping: 'people-insight/journey-maps.md'
-    - Systems mapping: 
-      - MLTC system mapping: 'people-insight/system-maps.md'
-      - MLTC systems actor map: 'people-insight/actor-map.md'
-    - Metaphors & images: 
-      - Metaphors of MLTC lived experience: 'people-insight/metaphors.md'
-      - Animation: 'people-insight/animation.md'
-  - Systems Science: 
-    - 'systems-science/index.md'
-    - 3 orders of MLTC systems science: 'systems-science/orders.md'
-    - 1st-order systems optimisation: 'systems-science/optimisation.md'
-    - 2nd-order systems innovation: 'systems-science/innovation.md'
-    - 3rd order systems transition: 'systems-science/transition.md'
-  - Transdisciplinary Synthesis & Strategy:
-    - 'transdisciplinary-synthesis-strategy/index.md'
-    - Problem co-definition map: 'transdisciplinary-synthesis-strategy/problem-definition.md'
-    - Problem co-prioritisation canvas: 'transdisciplinary-synthesis-strategy/problem-prioritisation.md'
-    - MLTC learning system framework: 'transdisciplinary-synthesis-strategy/MLTC-learning-system-framework.md'
-    - Sandpit events:
-      - Liverpool sandpit: 'transdisciplinary-synthesis-strategy/liverpool-sandpit.md'
-  - Dissemination: 'dissemination.md'
-  - Glossary: 'glossary.md'
+    - 'about/index.md'
+
   
 theme:
   name: material
-  logo: 'assets/logo.png'
+  # Add 
+  # logo: 'assets/logo.png'
   palette:
     scheme: systematic
   features:
@@ -89,12 +47,7 @@ markdown_extensions:
   - footnotes
   - abbr
   - pymdownx.snippets:
-      auto_append:
-        - includes/abbreviations.md
       check_paths: True
-
-watch:
-  - includes
 
 plugins:
   - glightbox
