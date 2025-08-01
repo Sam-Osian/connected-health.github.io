@@ -6,7 +6,9 @@ hide:
 
 # Home
 
-This is the home page.
+![Connected Health logo](assets/logo.png){ width="300" }
+
+Welcome to the Connected Health website.
 
 <!-- 
 To include images, add:

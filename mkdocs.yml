@@ -15,11 +15,12 @@ nav:
 theme:
   name: material
   language: en
-  #favicon: assets/favicon.png -- optionally, you can add a favicon
-  Add:
-   #logo: assets/logo.png -- optionally, add a logo
+  #favicon: assets/favicon.png
+  logo: assets/logo.png
   palette:
     scheme: default
+    primary: '#58064E'
+    accent: '#9A2E4F'
   features:
     - navigation.tabs
     - navigation.tabs.sticky
