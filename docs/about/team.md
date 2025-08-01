@@ -3,7 +3,7 @@
 <div class="team-container">
 
 <div class="team-card">
-  <img src="../assets/images/dan.png" alt="Dan" class="team-photo" />
+  <img src="../../assets/images/dan.png" alt="Dan" class="team-photo" />
   <h3>Dan</h3>
   <ul>
     <li>Research interest 1</li>
@@ -19,8 +19,9 @@
   </p>
 </div>
 
+
 <div class="team-card">
-  <img src="../assets/images/sam.png" alt="Sam" class="team-photo" />
+  <img src="../../assets/images/sam.png" alt="Sam" class="team-photo" />
   <h3>Sam</h3>
   <ul>
     <li>Research interest 1</li>
