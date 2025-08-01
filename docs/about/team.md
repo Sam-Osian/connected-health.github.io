@@ -12,12 +12,15 @@
   </ul>
   <p>Short bio about Dan goes here.</p>
   <p class="team-links">
-    [LinkedIn](#) [Website](#) [GitHub](#) [X](#)
+    <a href="#">LinkedIn</a>
+    <a href="#">Website</a>
+    <a href="#">GitHub</a>
+    <a href="#">X</a>
   </p>
 </div>
 
 <div class="team-card">
-  <img src="assets/images/sam.png" alt="Sam" class="team-photo" />
+  <img src="../assets/images/sam.png" alt="Sam" class="team-photo" />
   <h3>Sam</h3>
   <ul>
     <li>Research interest 1</li>
@@ -26,7 +29,10 @@
   </ul>
   <p>Short bio about Sam goes here.</p>
   <p class="team-links">
-    [LinkedIn](#) [Website](#) [GitHub](#) [X](#)
+    <a href="#">LinkedIn</a>
+    <a href="#">Website</a>
+    <a href="#">GitHub</a>
+    <a href="#">X</a>
   </p>
 </div>
 
