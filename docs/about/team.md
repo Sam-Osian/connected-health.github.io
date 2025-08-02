@@ -29,7 +29,7 @@
       <a href="https://www.danwjoyce.com"><span class="mdi mdi-web"></span> Website</a>
       <a href="https://github.com/danwjoyce"><span class="mdi mdi-github"></span> GitHub</a>
     </p>
-    <h5>Indicative Outputs</h5>
+    <h5>Featured outputs:</h5>
     <ul>
       <li><a href="https://www.nature.com/articles/s41746-023-00751-9">Explainable artificial intelligence for mental health through transparency and interpretability for understandability</a></li>
       <li><a href="https://www.sciencedirect.com/science/article/pii/S0933365724002306">Model development for bespoke large language models for digital triage assistance in mental health care</a></li>
@@ -60,7 +60,7 @@
       <a href="https://sam-osian.com/"><span class="mdi mdi-web"></span> Website</a>
       <a href="https://github.com/Sam-Osian/"><span class="mdi mdi-github"></span> GitHub</a>
     </p>
-    <h5>Indicative Outputs</h5>
+    <h5>Featured outputs:</h5>
     <ul>
       <li><a href="https://arxiv.org/abs/2507.20786">Automating Thematic Review of Prevention of Future Deaths Reports: Replicating the ONS Child Suicide Study using Large Language Models</a></li>
     </ul>
