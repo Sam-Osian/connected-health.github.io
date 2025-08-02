@@ -17,7 +17,7 @@
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   padding: 1rem;
   max-width: 300px;
-  text-align: center;
+  text-align: left;
 }
 
 .team-photo {
@@ -28,6 +28,9 @@
   margin-bottom: 0.5rem;
 }
 
+
+
 .team-links a {
   margin-right: 0.5rem;
+  text-align: center
 }

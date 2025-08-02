@@ -4,7 +4,7 @@
 
 <div class="team-card">
   <img src="../../assets/images/dan.png" alt="Dan" class="team-photo" />
-  <h3>Dan</h3>
+  <h3 align = "center">Dan</h3>
   <ul>
     <li>Psychiatry</li>
     <li>Data science and computational methods</li>
@@ -19,9 +19,11 @@
     <a href="https://github.com/danwjoyce">GitHub</a>
   </p>
   <h5>Indicative Outputs</h5>
-    <a href="https://www.nature.com/articles/s41746-023-00751-9">Explainable artificial intelligence for mental health through transparency and interpretability for understandability</a>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0933365724002306">Model development for bespoke large language models for digital triage assistance in mental health care</a>
-    <a href="https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1116-1">Realising stratified psychiatry using multidimensional signatures and trajectories</a>
+      <ul>
+        <li><a href="https://www.nature.com/articles/s41746-023-00751-9">Explainable artificial intelligence for mental health through transparency and interpretability for understandability</a></li>
+        <li><a href="https://www.sciencedirect.com/science/article/pii/S0933365724002306">Model development for bespoke large language models for digital triage assistance in mental health care</a></ul>
+        <li><a href="https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1116-1">Realising stratified psychiatry using multidimensional signatures and trajectories</a></ul>
+      </ul>
   </p>
 
 </div>
