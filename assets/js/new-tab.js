@@ -1,10 +1,15 @@
-// Ensure all links open in a new tab
-// Adds target _blank and rel noopener to every anchor on page load
+// Ensure external links open in a new tab
+// Adds target="_blank" and rel="noopener noreferrer" to outbound links on page load
 
-document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('a[href]').forEach(function (link) {
-    if (link.getAttribute('target') !== '_blank') {
-      link.setAttribute('target', '_blank');
+document.addEventListener('DOMContentLoaded', () => {
+  const currentHost = window.location.hostname;
+
+  document.querySelectorAll('a[href]').forEach(link => {
+    // Only treat links with a hostname and to a different host as external
+    if (link.hostname && link.hostname !== currentHost) {
+      if (link.getAttribute('target') !== '_blank') {
+        link.setAttribute('target', '_blank');
+      }
       link.setAttribute('rel', 'noopener noreferrer');
     }
   });
