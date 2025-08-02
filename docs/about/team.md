@@ -1,9 +1,16 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+
 # Meet the team
 
 <style>
 .team-photo {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
 }
 </style>
 
