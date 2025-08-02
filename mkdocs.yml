@@ -15,6 +15,8 @@ nav:
 theme:
   name: material
   language: en
+  font:
+    text: 'Inter'
   #favicon: assets/favicon.png
   logo: assets/logo.png
   palette:
