@@ -1,9 +1,16 @@
 # Meet the team
 
+<style>
+.team-photo {
+  width: 200px;
+  height: 200px;
+}
+</style>
+
 <div class="team-container">
 
 <div class="team-card">
-  <img src="../../assets/images/dan.png" alt="Dan" class="team-photo" />
+  <img src="../../assets/images/dan.png" alt="Dan" class="team-photo off-glb" />
   <h3>Dan Joyce</h3>
   <p class="team-title">Professor of Connected Mental Health</p>
   <div class="team-interests">
@@ -34,7 +41,7 @@
 
 
 <div class="team-card">
-  <img src="../../assets/images/sam.png" alt="Sam" class="team-photo" />
+  <img src="../../assets/images/sam.png" alt="Sam" class="team-photo off-glb" />
   <h3>Sam Osian</h3>
   <p class="team-title">PhD Student in Health Data Science</p>
   <div class="team-interests">
@@ -68,3 +75,4 @@
     <div id="team-modal-body"></div>
   </div>
 </div>
+
