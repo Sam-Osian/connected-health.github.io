@@ -36,6 +36,7 @@ theme:
 # If you want to add custom css, create a stylesheets folder in the docs/ directory and add your css file there.
 extra_css:
   - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/7.4.47/css/materialdesignicons.min.css
 
 extra_javascript:
   - assets/js/team.js

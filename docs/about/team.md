@@ -17,9 +17,10 @@
   <div class="team-bio">
     <p>After training as a computer scientist, I worked in computational modelling of language followed by a spell in experimental cognitive science and psychophysics. After retraining in medicine, I completed core and higher training in psychiatry as an NIHR academic clinical fellow, then lecturer. I'm primarily interested in how rational applications of computational methods (including contemporary ML and AI) can improve how we understand and treat mental illness.</p>
     <p class="team-links">
-      <a href="https://www.linkedin.com/in/dan-w-joyce-6870166b/">LinkedIn</a>
-      <a href="https://www.danwjoyce.com">Website</a>
-      <a href="https://github.com/danwjoyce">GitHub</a>
+      <a href="mailto:D.Joyce@liverpool.ac.uk"><span class="mdi mdi-email"></span> Email</a>
+      <a href="https://www.linkedin.com/in/dan-w-joyce-6870166b/"><span class="mdi mdi-linkedin"></span> LinkedIn</a>
+      <a href="https://www.danwjoyce.com"><span class="mdi mdi-web"></span> Website</a>
+      <a href="https://github.com/danwjoyce"><span class="mdi mdi-github"></span> GitHub</a>
     </p>
     <h5>Indicative Outputs</h5>
     <ul>
@@ -47,13 +48,15 @@
   <div class="team-bio">
     <p>I am a PhD student working at the intersection of open data, open source technology, and suicide prevention. My current research interest centres on how data from coroners’ inquests can be used to identify and respond to preventable deaths more effectively. I'm particularly interested in how advances in large language models are opening up new possibilities for analysing text at a scale and depth that simply wasn’t possible before.</p>
     <p class="team-links">
-      <a href="https://www.linkedin.com/in/sam-o-andrews/">LinkedIn</a>
-      <a href="https://sam-osian.com/">Website</a>
-      <a href="https://github.com/Sam-Osian/">GitHub</a>
+      <a href="mailto:samoand@liverpool.ac.uk"><span class="mdi mdi-email"></span> Email</a>
+      <a href="https://www.linkedin.com/in/sam-o-andrews/"><span class="mdi mdi-linkedin"></span> LinkedIn</a>
+      <a href="https://sam-osian.com/"><span class="mdi mdi-web"></span> Website</a>
+      <a href="https://github.com/Sam-Osian/"><span class="mdi mdi-github"></span> GitHub</a>
     </p>
     <h5>Indicative Outputs</h5>
     <ul>
       <li><a href="https://arxiv.org/abs/2507.20786">Automating Thematic Review of Prevention of Future Deaths Reports: Replicating the ONS Child Suicide Study using Large Language Models</a></li>
+    </ul>
   </div>
 </div>
 
