@@ -4,11 +4,23 @@
 }
 /* Team section custom styles */
 .team-container {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
   gap: 2rem;
-  justify-content: center;
-  margin-top: 1rem;
+  margin: 1rem auto 0;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 640px) {
+  .team-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 960px) {
+  .team-container {
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 1200px;
+  }
 }
 
 .team-card {
@@ -17,8 +29,7 @@
   border: 1px solid #e0e0e0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   padding: 1rem;
-  flex: 1 1 240px;
-  max-width: 260px;
+  width: 100%;
   text-align: center;
   cursor: pointer;
   transition: box-shadow 0.3s, transform 0.3s;
@@ -45,8 +56,8 @@
 
 
 .team-photo {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
