@@ -4,12 +4,16 @@
 
 <div class="team-card">
   <img src="../../assets/images/dan.png" alt="Dan" class="team-photo" />
-  <h3>Dan</h3>
-  <ul>
-    <li>Psychiatry</li>
-    <li>Data science and computational methods</li>
-    <li>Digital mental health</li>
-  </ul>
+  <h3>Dan Joyce</h3>
+  <p class="team-title">Professor of Connected Mental Health</p>
+  <div class="team-interests">
+    <h5>Research interests:</h5>
+    <ul>
+      <li>Psychiatry</li>
+      <li>Data science and computational methods</li>
+      <li>Digital mental health</li>
+    </ul>
+  </div>
   <div class="team-bio">
     <p>After training as a computer scientist, I worked in computational modelling of language followed by a spell in experimental cognitive science and psychophysics. After retraining in medicine, I completed core and higher training in psychiatry as an NIHR academic clinical fellow, then lecturer. I'm primarily interested in how rational applications of computational methods (including contemporary ML and AI) can improve how we understand and treat mental illness.</p>
     <p class="team-links">
@@ -26,22 +30,30 @@
   </div>
 </div>
 
+
+
 <div class="team-card">
   <img src="../../assets/images/sam.png" alt="Sam" class="team-photo" />
-  <h3>Sam</h3>
-  <ul>
-    <li>Research interest 1</li>
-    <li>Research interest 2</li>
-    <li>Research interest 3</li>
-  </ul>
+  <h3>Sam Osian</h3>
+  <p class="team-title">PhD Student in Health Data Science</p>
+  <div class="team-interests">
+    <h5>Research interests:</h5>
+    <ul>
+      <li>Natural language processing</li>
+      <li>Coronial data</li>
+      <li>Suicide prevention</li>
+    </ul>
+  </div>
   <div class="team-bio">
-    <p>Short bio about Sam goes here.</p>
+    <p>I am a PhD student working at the intersection of open data, open source technology, and suicide prevention. My current research interest centres on how data from coroners’ inquests can be used to identify and respond to preventable deaths more effectively. I'm particularly interested in how advances in large language models are opening up new possibilities for analysing text at a scale and depth that simply wasn’t possible before.</p>
     <p class="team-links">
-      <a href="#">LinkedIn</a>
-      <a href="#">Website</a>
-      <a href="#">GitHub</a>
-      <a href="#">X</a>
+      <a href="https://www.linkedin.com/in/sam-o-andrews/">LinkedIn</a>
+      <a href="https://sam-osian.com/">Website</a>
+      <a href="https://github.com/Sam-Osian/">GitHub</a>
     </p>
+    <h5>Indicative Outputs</h5>
+    <ul>
+      <li><a href="https://arxiv.org/abs/2507.20786">Automating Thematic Review of Prevention of Future Deaths Reports: Replicating the ONS Child Suicide Study using Large Language Models</a></li>
   </div>
 </div>
 

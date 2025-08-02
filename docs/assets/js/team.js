@@ -7,10 +7,15 @@ document.addEventListener('DOMContentLoaded', function () {
     card.addEventListener('click', () => {
       const bio = card.querySelector('.team-bio').innerHTML;
       const name = card.querySelector('h3').textContent;
+      const title = card.querySelector('.team-title').textContent;
       const photo = card.querySelector('.team-photo').src;
       const alt = card.querySelector('.team-photo').alt;
-      const interests = card.querySelector('ul').outerHTML;
-      modalBody.innerHTML = `<img src="${photo}" alt="${alt}" class="team-modal-photo" /><h3>${name}</h3>${interests}${bio}`;
+      const interests = card.querySelector('.team-interests').innerHTML;
+      modalBody.innerHTML = `
+        <img src="${photo}" alt="${alt}" class="team-modal-photo" />
+        <h3>${name}</h3>
+        <p class="team-title">${title}</p>
+        ${interests}${bio}`.trim();
       modal.style.display = 'block';
     });
   });

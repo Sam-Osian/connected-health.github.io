@@ -17,8 +17,9 @@
   border: 1px solid #e0e0e0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   padding: 1.5rem;
-  width: 400px;
-  text-align: center;
+  flex: 1 1 calc(50% - 2rem);
+  max-width: calc(50% - 2rem);
+  text-align: left;
   cursor: pointer;
   transition: background-color 0.3s, box-shadow 0.3s, transform 0.3s;
 }
@@ -29,14 +30,23 @@
   transform: translateY(-4px);
 }
 
-.team-card > ul {
-  list-style: none;
-  padding: 0;
+
+.team-interests p {
+  margin: 0 0 0.5rem;
+}
+
+.team-interests ul {
   margin: 0 0 1rem;
+  padding-left: 1.2rem;
 }
 
 .team-card h3 {
   margin: 0.5rem 0;
+}
+
+.team-title {
+  margin: 0 0 1rem;
+  font-weight: 500;
 }
 
 .team-photo {
@@ -44,7 +54,8 @@
   height: 180px;
   object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 0.5rem;
+  display: block;
+  margin: 0 auto 0.5rem;
 }
 
 .team-bio {
@@ -53,7 +64,6 @@
 
 .team-links a {
   margin-right: 0.5rem;
-  text-align: center;
 }
 
 /* Modal styles */
@@ -75,7 +85,7 @@
   padding: 20px;
   border-radius: 8px;
   max-width: 600px;
-  text-align: center;
+  text-align: left;
 }
 
 .team-modal-close {
