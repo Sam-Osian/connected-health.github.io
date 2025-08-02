@@ -6,17 +6,24 @@
   <img src="../../assets/images/dan.png" alt="Dan" class="team-photo" />
   <h3>Dan</h3>
   <ul>
-    <li>Research interest 1</li>
-    <li>Research interest 2</li>
-    <li>Research interest 3</li>
+    <li>Psychiatry</li>
+    <li>Data science and computational methods</li>
+    <li>Digital mental health</li>
   </ul>
-  <p>Short bio about Dan goes here.</p>
+  <p>After training as a computer scientist, I worked in computational modelling of language followed by a spell in experimental cognitive science and psychophysics.  
+  After retraining in medicine, I completed core and higher training in psychiatry as an NIHR academic clinical fellow, then lecturer.  I'm primarily interested in 
+  how rational applications of computational methods (including contemporary ML and AI) can improve how we understand and treat mental illness.</p>
   <p class="team-links">
-    <a href="#">LinkedIn</a>
-    <a href="#">Website</a>
-    <a href="#">GitHub</a>
-    <a href="#">X</a>
+    <a href="https://www.linkedin.com/in/dan-w-joyce-6870166b/">LinkedIn</a>
+    <a href="https://www.danwjoyce.com">Website</a>
+    <a href="https://github.com/danwjoyce">GitHub</a>
   </p>
+  <h5>Indicative Outputs</h5>
+    <a href="https://www.nature.com/articles/s41746-023-00751-9">Explainable artificial intelligence for mental health through transparency and interpretability for understandability</a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0933365724002306">Model development for bespoke large language models for digital triage assistance in mental health care</a>
+    <a href="https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1116-1">Realising stratified psychiatry using multidimensional signatures and trajectories</a>
+  </p>
+
 </div>
 
 
