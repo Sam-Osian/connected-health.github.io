@@ -32,6 +32,7 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
     </ul>
   </div>
   <div class="team-bio">    <!--Short bio, ~80 words-->
+      <h5>About:</h5>
     <p>After training as a computer scientist, I worked in computational modelling of language followed by a spell in experimental cognitive science and psychophysics. After retraining in medicine, I completed core and higher training in psychiatry as an NIHR academic clinical fellow, then lecturer. I'm primarily interested in how rational applications of computational methods (including contemporary ML and AI) can improve how we understand and treat mental illness.</p>
     <p class="team-links">  <!--Email, LinkedIn, Website, GitHub links -- just delete anything you don't want -->
       <a href="mailto:D.Joyce@liverpool.ac.uk"><span class="mdi mdi-email"></span> Email</a>
@@ -63,6 +64,7 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
     </ul>
   </div>
   <div class="team-bio">    <!--Short bio, ~80 words-->
+      <h5>About:</h5>
     <p>I am a PhD student working at the intersection of open data, open source technology, and suicide prevention. My current research interest centres on how data from coroners’ inquests can be used to identify and respond to preventable deaths more effectively. I'm particularly interested in how advances in large language models are opening up new possibilities for analysing text at a scale and depth that simply wasn’t possible before.</p>
     <p class="team-links"> <!--Email, LinkedIn, Website, GitHub links -- just delete anything you don't want -->
       <a href="mailto:samoand@liverpool.ac.uk"><span class="mdi mdi-email"></span> Email</a>
