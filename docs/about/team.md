@@ -12,7 +12,7 @@ hide:
 TO ADD A NEW TEAM MEMBER:
 1. Copy and paste one of the `<div class="team-card">...</div>` blocks below.
 2. Update the details (photo, name, title, research interests, bio, links, outputs).
-   Every part you need to edit has a comment beside it (e.g. <!--Photo-- >).
+   Every part you need to edit has a comment beside it (e.g. --Photo--).
 3. Insert the new card *above* the "end of team-container" message near the bottom of this file.
 
 To delete a member, just remove their `<div class="team-card">...</div>` block.

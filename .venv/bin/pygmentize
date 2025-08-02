@@ -1,4 +1,4 @@
-#!/home/dan/Dropbox/work-flow/Connected-Health-Group/website/.venv/bin/python
+#!/home/sam/Documents/PhD/connected-health-website/.venv/bin/python
 # -*- coding: utf-8 -*-
 import sys
 from pygments.cmdline import main
