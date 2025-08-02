@@ -82,4 +82,3 @@ hide:
     <div id="team-modal-body"></div>
   </div>
 </div>
-

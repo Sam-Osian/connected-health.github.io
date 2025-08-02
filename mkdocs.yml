@@ -15,8 +15,8 @@ theme:
   language: en
   font:
     text: 'Inter'
-  #favicon: assets/favicon.png
-  logo: assets/logo.png
+  favicon: assets/pebble.png
+  logo: assets/pebble.png
   palette:
     scheme: default
     primary: '#58064E'
