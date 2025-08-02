@@ -38,6 +38,7 @@ extra_css:
 
 extra_javascript:
   - assets/js/team.js
+  - assets/js/new-tab.js
   
 markdown_extensions: 
   - attr_list
