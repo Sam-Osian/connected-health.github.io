@@ -8,6 +8,7 @@ site_url: https://connectedhealth.group
 nav:
   - Home: 'index.md'
   - Meet the Team: 'about/team.md'
+  - Projects: 'projects/index.md'
 
 # Site configuration
 theme:
