@@ -7,6 +7,7 @@ site_url: https://connectedhealth.group
 # You can also create subpages by indenting the links under a parent page (e.g. just like in the About section).
 nav:
   - Home: 'index.md'
+  - About: 'about/index.md'
   - Meet the Team: 'about/team.md'
   - Projects: 'projects/index.md'
 
