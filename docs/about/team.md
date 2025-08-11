@@ -46,9 +46,38 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
       <li><a href="https://www.sciencedirect.com/science/article/pii/S0933365724002306">Model development for bespoke large language models for digital triage assistance in mental health care</a></li>
       <li><a href="https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1116-1">Realising stratified psychiatry using multidimensional signatures and trajectories</a></li>
     </ul>
+    </div>
+  </div>
+
+<div class="team-card">
+  <img src="../../assets/images/yi_d.png" alt="Yi" class="team-photo off-glb" /> <!--Photo-->
+  <h3>Yi Dong</h3>
+  <p class="team-title">Lecturer in Artificial Intelligence</p> <!--Job title-->
+  <div class="team-interests">
+    <h5>Research interests:</h5>
+    <ul>                      <!--Set research interests-->
+      <li>Trustworthy AI</li>
+      <li>Autonomous Systems</li>
+      <li>Distributed Optimisation and Control</li>
+    </ul>
+  </div>
+  <div class="team-bio">    <!--Short bio, ~80 words-->
+      <h5>About:</h5>
+    <p>I am an Early Career Academic and Lecturer at the University of Liverpool with expertise in trustworthy AI. My research interests include AI, Robotics, trustworthy systems, and energy systems. I have secured multiple research grants from UKRI, Innovate UK, ATI, Royal Society, and have contributed to projects totalling over £20M (e.g. EnnCORE, FOCETA, RobustifAI). Our team won the UK-US privacy-enhancing technologies prize challenges with the recognition of Novel Modelling/Design in 2023. I have authored 30+ publications in top-tier venues, such as ICML, ICCV, AAMAS, etc. I also serve as an Area Chair, PC member or Organising team member for conferences including NeurIPS, AAAI, ECAI, and UKAIRS.</p>
+    <p class="team-links">  <!--Email, LinkedIn, Website, GitHub links -- just delete anything you don't want -->
+      <a href="mailto:yi.dong@liverpool.ac.uk"><span class="mdi mdi-email"></span> Email</a>
+      <a href="https://www.linkedin.com/in/yi-dong-323319170"><span class="mdi mdi-linkedin"></span> LinkedIn</a>
+      <a href="https://cgi.csc.liv.ac.uk/~yidong"><span class="mdi mdi-web"></span> Website</a>
+      <a href="https://github.com/YD-19"><span class="mdi mdi-github"></span> GitHub</a>
+    </p>
+    <h5>Featured outputs:</h5>  <!--Add up to 3 featured output URLs and titles below-->
+    <ul>
+      <li><a href="https://dl.acm.org/doi/abs/10.5555/3692070.3692521">Building Guardrails for Large Language Models</a></li>
+      <li><a href="https://doi.org/10.1109/LRA.2024.3364471">Reachability Verification Based Reliability Assessment for Deep Reinforcement Learning Controlled Robotics and Autonomous Systems</a></li>
+      <li><a href="https://doi.org/10.1145/3570918">Reliability Assessment and Safety Arguments for Machine Learning Components in Assuring Learning-Enabled Autonomous Systems</a></li>
+    </ul>
   </div>
 </div>
-
 
 <div class="team-card">
   <img src="../../assets/images/peiyun.png" alt="Peiyun" class="team-photo off-glb" /> <!--Photo-->
