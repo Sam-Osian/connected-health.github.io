@@ -1,4 +1,4 @@
-site_name: Connected Health
+site_name: University of Liverpool Connected Health Group
 site_url: https://connectedhealth.group
 #site_description: Add description for website (good for SEO)
 #copyright: Add copyright info here if needed
@@ -7,8 +7,8 @@ site_url: https://connectedhealth.group
 # You can also create subpages by indenting the links under a parent page (e.g. just like in the About section).
 nav:
   - Home: 'index.md'
-  - About: 'about/index.md'
-  - Meet the Team: 'about/team.md'
+  - About:
+      - Meet the Team: 'about/team.md'
   - Projects: 'projects/index.md'
 
 # Site configuration
