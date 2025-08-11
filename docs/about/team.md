@@ -50,6 +50,34 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
 </div>
 
 
+<div class="team-card">
+  <img src="../../assets/images/peiyun.png" alt="Peiyun" class="team-photo off-glb" /> <!--Photo-->
+  <h3>Peiyun Hu</h3>
+  <p class="team-title">Postdoctoral Research Associate</p> <!--Job title-->
+  <div class="team-interests">
+    <h5>Research interests:</h5>
+    <ul>                      <!--Set research interests-->
+      <li>Cardiovascular disease (CVD) and antipsychotic medications</li>
+      <li>Real-world data / electronic health records (EHR)</li>
+      <li>Predictive modelling and statistical methods</li>
+    </ul>
+  </div>
+  <div class="team-bio">    <!--Short bio, ~80 words-->
+      <h5>About:</h5>
+    <p>I am currently a Postdoctoral Research Associate in Primary Care and Mental Health at the Department of Institute of Population Health, with a PhD in Statistics from the Department of Mathematics, University of York. My current research focuses on analysing large-scale longitudinal electronic health records to investigate CVD risk among individuals treated with antipsychotic medications.</p>
+    <p>My research interests lie in statistical methodologies for big data and predictive modelling. I am deepening my expertise in areas such as survival analysis, causal inference, and joint modelling. My academic background spans mathematical statistics, computational modelling, and health data science, and I am passionate about contributing to collaborative research at the intersection of clinical epidemiology and data analytics.</p>
+    <p>I am currently working on the PreCAP project, which uses linked CPRD primary and secondary care data to model cardiovascular risk in individuals prescribed antipsychotic medication.</p>
+    <p class="team-links"> <!--Email, LinkedIn, Website, GitHub links -- just delete anything you don't want -->
+      <a href="mailto:Peiyun.Hu@liverpool.ac.uk"><span class="mdi mdi-email"></span> Email</a>
+      <a href="https://www.linkedin.com/in/peihu816"><span class="mdi mdi-linkedin"></span> LinkedIn</a>
+    </p>
+
+    </ul>
+  </div>
+</div>
+
+
+
 
 <div class="team-card">
   <img src="../../assets/images/sam.png" alt="Sam" class="team-photo off-glb" /> <!--Photo-->
@@ -78,6 +106,8 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
     </ul>
   </div>
 </div>
+
+
 
 
 
