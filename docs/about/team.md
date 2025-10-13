@@ -225,7 +225,7 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
 </div>
 
 <div class="team-card">
-  <img src="../../assets/images/blank.png" alt="Laura" class="team-photo off-glb" /> <!--Photo-->
+  <img src="../../assets/images/laura.png" alt="Laura" class="team-photo off-glb" /> <!--Photo-->
   <h3>Laura Montauti</h3>
   <p class="team-title">Research Assistant</p> <!--Job title-->
   <div class="team-interests">
@@ -241,6 +241,8 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
       <h5>About:</h5>
     <p>I am a registered adult nurse with an MSc in Psychology, currently working in a mood disorders clinic. Early in my research career, I am passionate about advancing personalised mental health care. My interests focus on transdiagnostic symptoms, particularly anhedonia, and how they shape individual experiences across diagnostic boundaries.</p>
     <p>I aim to bridge clinical practice and research to improve outcomes for people with complex mental health needs.</p>
+    <p class="team-links"> <!--Email, LinkedIn, Website, GitHub links -- just delete anything you don't want -->
+      <a href="mailto:Laura.Montauti@merseycare.nhs.uk"><span class="mdi mdi-email"></span> Email</a>
     <h5>Featured outputs:</h5>  <!--Add up to 3 featured output URLs and titles below-->
     <ul>
       <li><a href="https://www.ted.com/talks/sarah_jayne_blakemore_the_mysterious_workings_of_the_adolescent_brain">TED Talk: The Mysterious Workings of the Teenage Brain</a></li>
