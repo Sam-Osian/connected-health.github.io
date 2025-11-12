@@ -18,7 +18,6 @@ TO ADD A NEW TEAM MEMBER:
 To delete a member, just remove their `<div class="team-card">...</div>` block.
 -->
 
-
 <div class="team-card">
   <img src="../../assets/images/dan.png" alt="Dan" class="team-photo off-glb" /> <!--Photo-->
   <h3>Dan Joyce</h3>
@@ -251,6 +250,36 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
   </div>
 </div>
 
+
+<div class="team-card">
+  <img src="../../assets/images/lily.png" alt="Lily" class="team-photo off-glb" /> <!--Photo-->
+  <h3>Lily Farakish</h3>
+  <p class="team-title">NIHR Academic Clinical Fellow in Psychiatry</p> <!--Job title-->
+  <div class="team-interests">
+    <h5>Research interests:</h5>
+    <ul>                      <!--Set research interests-->
+      <li>Transdiagnostic phenotyping</li>
+      <li>Statistical and computational psychiatry</li>
+    </ul>
+  </div>
+  <div class="team-bio">    <!--Short bio, ~80 words-->
+      <h5>About:</h5>
+    <p>I am an NIHR Academic Clinical Fellow in Psychiatry at the University of Liverpool and Mersey Care NHS Foundation Trust. My early projects were on genetic and dimensional architecture of psychiatric disorders, in particular psychosis. My current research interests focus on understanding psychiatric disorders across traditional diagnostic boundaries using data-driven approaches. I am particularly interested in applying statistical methods to large-scale and longitudinal datasets, including electronic health records, to identify predictors of illness trajectory and outcome. I currently work within Work Package 3 (Mood Disorders) of the Mental Health Research for Innovation Centre (M-RIC).
+</p>
+    <p class="team-links"> <!--Email, LinkedIn, Website, GitHub links -- just delete anything you don't want -->
+      <a href="mailto:L.Farakish@liverpool.ac.uk"><span class="mdi mdi-email"></span> Email</a>
+      <a href="https://orcid.org/0000-0002-5661-0719"><span class="mdi mdi-orcid"></span> ORCID</a>
+      <a href="https://www.linkedin.com/in/lilyfarakish"><span class="mdi mdi-linkedin"></span> LinkedIn</a>
+    </p>
+    <h5>Featured outputs:</h5>   <!--Add up to 3 featured output URLs and titles below-->
+    <ul>
+      <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9563343/">Clinical Indicators of Symptom Dimensions and Cognitive Ability in Schizophrenia</a></li>
+      <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0924977X21003783">Polygenic and Clinical Associations with Symptom Dimensions and Cognitive Ability in Schizophrenia</a></li>
+      <li><a href="https://www.cambridge.org/core/journals/bjpsych-open/article/effect-of-schizophreniaassociated-cnvs-on-other-psychiatric-disorders/777961CA0704E63693C3A1F18A331CE5">The Effect of Schizophrenia-Associated CNVs on Other Psychiatric Disorders</a></li>
+    </ul>
+  </div>
+</div>
+
 <div class="team-card">
   <img src="../../assets/images/sam.png" alt="Sam" class="team-photo off-glb" /> <!--Photo-->
   <h3>Sam Osian</h3>
@@ -278,16 +307,6 @@ To delete a member, just remove their `<div class="team-card">...</div>` block.
     </ul>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
 
 
 
